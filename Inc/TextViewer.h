@@ -18,3 +18,4 @@ struct TextLineBuffer
 void LoadTextFile(char* filename);
 void InitializeTextLineBuffer(char* buffer, int length);
 
+// sample change
